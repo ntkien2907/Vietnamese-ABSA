@@ -3,7 +3,7 @@
 
 ### Introduction
 Aspect-based sentiment analysis (ABSA) is a text analysis technique that categorizes data by aspect and identifies the sentiment attributed to each one. Aspect-based sentiment analysis can be used to analyze customer feedback by associating specific sentiments with different aspects of a product or service.
-<p align='middle'><img src='./assets/absa.png' width=30% /></p>
+<p align='middle'><img src='./assets/absa.png' width=60% /></p>
 
 ### Dataset
 [UIT-ViSFD](https://github.com/LuongPhan/UIT-ViSFD) is a Vietnamese Smartphone Feedback Dataset as a new benchmark corpus built based on strict annotation schemes for evaluating aspect-based sentiment analysis, consisting of 11,122 human-annotated comments for mobile e-commerce.
